@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
-import Editor from '../components/playground/editor.js'
+import Editor from '../components/playground/Editor'
 
 
 export default function Home() {
